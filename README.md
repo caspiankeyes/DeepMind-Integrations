@@ -1,22 +1,20 @@
 <div align="center">
 
-# DeepMind-Integrations: Advanced Interpretability Infrastructure
+# DeepMind-Integrations
+# Advanced Interpretability Infrastructure for High-Dimensional Systems
 
 *`Recursive Transparency for Next-Generation Transformer Systems`*
+
+[![License: PolyForm](https://img.shields.io/badge/License-PolyForm-yellow.svg)](https://opensource.org/licenses/PolyForm)
+[![Python: 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![TensorFlow: 2.15+](https://img.shields.io/badge/tensorflow-2.15+-orange.svg)](https://www.tensorflow.org/)
+[![JAX: 0.4.20+](https://img.shields.io/badge/jax-0.4.20+-green.svg)](https://github.com/google/jax)
 
 ![deepmind](https://github.com/user-attachments/assets/65fadb1c-346a-47a9-9acc-68d83d89b278)
 
 ![pareto-lang-internal-modified](https://github.com/user-attachments/assets/2cd96cc9-1ad2-4579-8393-266e634272ff)
 
 # DeepMind Integrations
-
-## Advanced Infrastructure for High-Dimensional Systems
-
-
-[![License: PolyForm](https://img.shields.io/badge/License-PolyForm-yellow.svg)](https://opensource.org/licenses/PolyForm)
-[![Python: 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
-[![TensorFlow: 2.15+](https://img.shields.io/badge/tensorflow-2.15+-orange.svg)](https://www.tensorflow.org/)
-[![JAX: 0.4.20+](https://img.shields.io/badge/jax-0.4.20+-green.svg)](https://github.com/google/jax)
 
 <strong>Interpretability is not optional. It's infrastructure.</strong>
 
