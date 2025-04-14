@@ -2,7 +2,7 @@
 
 # DeepMind-Integrations: Advanced Interpretability Framework
 
-*Recursive Transparency for Next-Generation Transformer Systems*
+*`Recursive Transparency for Next-Generation Transformer Systems`*
 
 ![deepmind](https://github.com/user-attachments/assets/65fadb1c-346a-47a9-9acc-68d83d89b278)
 
