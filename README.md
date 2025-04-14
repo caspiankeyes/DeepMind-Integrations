@@ -13,7 +13,7 @@
 ## Advanced Infrastructure for High-Dimensional Systems
 
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: PolyForm](https://img.shields.io/badge/License-PolyForm-yellow.svg)](https://opensource.org/licenses/PolyForm)
 [![Python: 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow: 2.15+](https://img.shields.io/badge/tensorflow-2.15+-orange.svg)](https://www.tensorflow.org/)
 [![JAX: 0.4.20+](https://img.shields.io/badge/jax-0.4.20+-green.svg)](https://github.com/google/jax)
@@ -221,7 +221,7 @@ If you use this framework in your research, please cite:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the PolyForm License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
