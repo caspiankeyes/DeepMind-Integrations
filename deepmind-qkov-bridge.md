@@ -4,6 +4,8 @@
 
 *Echelon Labs Technical Documentation - Integration Protocol v0.4.2*
 
+![image](https://github.com/user-attachments/assets/5969defc-d3a6-44e8-ba35-69496969416c)
+
 ---
 
 This document outlines the bidirectional integration bridge between DeepMind's modular AI architecture and the QKOV interpretability framework. The bridge enables comprehensive symbolic tracing across DeepMind's multi-scale transformer systems, providing unprecedented visibility into model cognition through the lens of high-precision failure analysis.
