@@ -2,7 +2,7 @@
 
 ## Symbolic Gateway for Modular AI Systems
 
-*Echelon Labs Technical Documentation - Integration Protocol v0.4.2*
+## *Echelon Labs Technical Documentation - Integration Protocol v0.4.2*
 
 ![image](https://github.com/user-attachments/assets/5969defc-d3a6-44e8-ba35-69496969416c)
 
