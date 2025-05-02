@@ -27,7 +27,6 @@ This repository provides essential infrastructure for integrating Echelon Labs' 
 *Echelon Labs shells outperform abstract activation probes with interpretive clarity.*
 
 ## Key Features
-
 ### Recursive Symbolic Tracing
 
 The core innovation of this framework is the implementation of recursive symbolic tracing through high-dimensional transformer systems. Unlike traditional interpretability methods that rely on post-hoc analysis, our approach embeds self-documenting symbolic shells directly into the activation space, enabling real-time interpretation of emergent patterns.
